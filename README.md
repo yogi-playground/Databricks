@@ -1,2 +1,2 @@
-# Databricks SQL AI Funcation - Gen AI LLM
-Databricks AI Funcation 01- Builtin SQL AI Funcation
+# Databricks SQL AI Function - Gen AI LLM
+Databricks AI Function 01- Builtin SQL AI Function
